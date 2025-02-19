@@ -149,3 +149,392 @@ letter-spacing: 23%;
   .background span{
     font-weight: 700;
   }
+
+  /* Cards */
+
+
+
+
+  .cards{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+  margin-top: 20px;
+   
+
+  
+  }
+
+
+  
+  
+.topicstitle{
+  margin-top: 60px;
+}
+
+
+  .second-section{
+    padding: 0 84px;
+    margin-top: 50px;
+  }
+
+.card1{
+  box-shadow: 0px 6px 6px 0px #0000000D;
+  background-color: white;
+  width: max-content;
+ border-radius: 20px;
+ display: flex; 
+ flex-direction: column;
+ align-items: center;
+ gap: 30px;
+ padding:  51px 50px 137px 68px;
+ width: 204px;
+height: 291px;
+
+font-family: "Poppins";
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+letter-spacing: 0%;
+text-align: center;
+color: #262626;
+transition: 1s;
+
+
+
+
+}
+.card2{
+  box-shadow: 0px 6px 6px 0px #0000000D;
+  background-color: white;
+  width: max-content;
+ border-radius: 20px;
+ display: flex; 
+ flex-direction: column;
+ align-items: center;
+ gap: 30px;
+ padding:  51px 50px 137px 68px;
+ width: 204px;
+ height: 291px;
+ font-family: "Poppins";
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+letter-spacing: 0%;
+text-align: center;
+color: #262626;
+transition: 1s;
+}
+.card3{
+  box-shadow: 0px 6px 6px 0px #0000000D;
+  background-color: white;
+  width: max-content;
+ border-radius: 20px;
+ display: flex; 
+ flex-direction: column;
+ align-items: center;
+ gap: 30px;
+ padding:  51px 50px 137px 68px;
+ width: 204px;
+ height: 291px;
+ font-family: "Poppins";
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+letter-spacing: 0%;
+text-align: center;
+color: #262626;
+transition: 1s;
+}
+.card4{
+  box-shadow: 0px 6px 6px 0px #0000000D;
+  background-color: white;
+  width: max-content;
+ border-radius: 20px;
+ display: flex; 
+ flex-direction: column;
+ align-items: center;
+ gap: 30px;
+ padding:  51px 50px 137px 68px;
+ width: 204px;
+ height: 291px;
+ font-family: "Poppins";
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+letter-spacing: 0%;
+text-align: center;
+color: #262626;
+transition: 1s;
+}
+.card5{
+  box-shadow: 0px 6px 6px 0px #0000000D;
+  background-color: white;
+  width: max-content;
+ border-radius: 20px;
+ display: flex; 
+ flex-direction: column;
+ align-items: center;
+ gap: 30px;
+ padding:  51px 50px 137px 68px;
+ width: 204px;
+ height: 291px;
+ font-family: "Poppins";
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+letter-spacing: 0%;
+text-align: center;
+color: #262626;
+transition: 1s;
+}
+
+.card6{
+  box-shadow: 0px 6px 6px 0px #0000000D;
+  background-color: white;
+  width: max-content;
+ border-radius: 20px;
+ display: flex; 
+ flex-direction: column;
+ align-items: center;
+ gap: 30px;
+ padding:  51px 50px 137px 68px;
+ width: 204px;
+ height: 291px;
+ font-family: "Poppins";
+ font-weight: 700;
+ font-size: 20px;
+ line-height: 30px;
+ letter-spacing: 0%;
+ text-align: center;
+color: #262626;
+transition: 1s;
+}
+
+
+
+
+
+
+
+.card2 img{
+
+  width: 103px;
+  height: 103px;
+}
+
+
+.card1 img{
+
+  width: 103px;
+  height: 103px;
+}
+
+.card3 img{
+
+  width: 103px;
+  height: 103px;
+}
+
+.card4 img{
+
+  width: 103px;
+  height: 103px;
+}
+.card5 img{
+
+  width: 103px;
+  height: 103px;
+}
+
+.card6 img{
+
+  width: 103px;
+  height: 103px;
+}
+
+.card6 h2{
+  width: 240px;
+}
+
+
+.card1 button{
+  width: 150px;
+  padding: 10px 40px;
+  border-radius: 40px;
+  color: #262626;
+  background: #4CE0D7;
+  transition: 1s;
+  border: 1px #4CE0D7;;;
+
+}
+
+
+.card2 button{
+  width: 150px;
+  padding: 10px 40px;
+  border-radius: 40px;
+  color: #262626;
+  background: #4CE0D7;
+  transition: 1s;
+  border: 1px #4CE0D7;;;
+
+}
+
+.card3 button{
+  width: 150px;
+  padding: 10px 40px;
+  border-radius: 40px;
+  color: #262626;
+  background: #4CE0D7;
+  transition: 1s;
+  border: 1px #4CE0D7;;;
+
+}
+
+
+.card4 button{
+  width: 150px;
+  padding: 10px 40px;
+  border-radius: 40px;
+  color: #262626;
+  background: #4CE0D7;
+  transition: 1s;
+  border: 1px #4CE0D7;;;
+
+}
+.card5 button{
+  width: 150px;
+  padding: 10px 40px;
+  border-radius: 40px;
+  color: #262626;
+  background: #4CE0D7;
+  transition: 1s;
+  border: 1px #4CE0D7;;;
+
+}
+.card6 button{
+  width: 150px;
+  padding: 10px 40px;
+  border-radius: 40px;
+  color: #262626;
+  background: #4CE0D7;
+  transition: 1s;
+  border: 1px #4CE0D7;;;
+
+
+}
+
+.card1:hover{
+  transform: scale(1.1);
+  cursor: pointer;
+  
+}
+
+.card2:hover{
+  transform: scale(1.1);
+  cursor: pointer;
+}
+
+.card3:hover{
+  transform: scale(1.1);
+  cursor: pointer;
+}
+.card4:hover{
+  transform: scale(1.1);
+  cursor: pointer;
+}
+.card5:hover{
+  transform: scale(1.1);
+  cursor: pointer;
+}
+
+.card6:hover{
+  transform: scale(1.1);
+  cursor: pointer;
+}
+
+
+.card1 button:hover{
+  background-color: white;
+  color: #4CE0D7;;
+  cursor: pointer;
+
+}
+
+.card2 button:hover{
+  background-color: white;
+  color: #4CE0D7;;
+  cursor: pointer;
+ 
+}
+
+
+.card3 button:hover{
+  background-color: white;
+  color: #4CE0D7;;
+  cursor: pointer;
+}
+
+
+.card4 button:hover{
+  background-color: white;
+  color: #4CE0D7;;
+  cursor: pointer;
+}
+
+.card4 button:hover{
+  background-color: white;
+  color: #4CE0D7;;
+  cursor: pointer;
+}
+
+
+
+.card5 button:hover{
+  background-color: white;
+  color: #4CE0D7;;
+  cursor: pointer;
+}
+
+
+.card6 button:hover{
+  background-color: white;
+  color: #4CE0D7;;
+  cursor: pointer;
+}
+
+
+
+.card1 h2{
+  font-size: 20px;
+}
+
+
+
+.card2 h2{
+  font-size: 20px;
+}
+
+
+
+.card3 h2{
+  font-size: 20px;
+}
+
+
+
+.card4 h2{
+  font-size: 20px;
+}
+
+
+
+.card5 h2{
+  font-size: 20px;
+}
+
+
+.card6 h2{
+  font-size: 20px;
+}
